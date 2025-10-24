@@ -30,3 +30,6 @@ Notes
 - If you choose to fetch live data, the app uses OpenWeatherMap geocoding and One Call APIs. You need an API key from https://openweathermap.org/.
 - If your MATLAB does not have webread or network access, use the sample data option.
 - This is a minimal example; extend it with more features (higher-order fits, selection of variables, error handling) as needed.
+
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/697081a6-0bae-4080-b9ad-20e79020fca1" />
+
