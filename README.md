@@ -2,6 +2,8 @@
 
 This small MATLAB app fetches weather data (via OpenWeatherMap) or uses a built-in sample dataset, performs a linear regression of temperature vs time, and plots the result.
 
+<img width="1204" height="827" alt="image" src="https://github.com/user-attachments/assets/79f65924-15da-4e57-bbcf-8a68b0d537be" />
+
 Files added:
 - `weatherRegressionApp.m` - main app class (programmatic App Designer-style app)
 - `sampleWeatherData.m` - helper to provide demo data when no API key is available
