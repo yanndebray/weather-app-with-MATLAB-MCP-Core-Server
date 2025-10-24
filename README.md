@@ -2,6 +2,9 @@
 
 This small MATLAB app fetches weather data (via OpenWeatherMap) or uses a built-in sample dataset, performs a linear regression of temperature vs time, and plots the result.
 
+**Prompt:**
+> create an app in MATLAB that performs a linear regression on weather data pulled from an API
+
 <img width="1204" height="827" alt="image" src="https://github.com/user-attachments/assets/79f65924-15da-4e57-bbcf-8a68b0d537be" />
 
 Files added:
